@@ -1,1 +1,3 @@
-# lyrical
+# Lyrical
+
+GraphQL exercise for myself!
